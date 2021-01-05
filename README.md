@@ -1,5 +1,5 @@
 # QuadTree Particle System
-A particle system that dynamically splits into sections to reduce individual checks for collisions.
+A particle system that dynamically subdivides into sections and collapses to reduce individual checks for collisions.
 * This is the summative for the second unit of ICS4UE, demonstrating the implementation and use of basic data structures, particularly linked lists and trees
 * Particles will collide off each other and walls
 * When six or more particles exist in a section, the section will subdivide into quadrants
