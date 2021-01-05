@@ -16,7 +16,7 @@ import java.awt.Rectangle;
 /**
  * [QuadTreeDisplay].java
  * This template can be used as reference or a starting point for your QuadTree Assignment
- * @author Mr. Mangat, Ethan Zhang
+ * @author Ethan Zhang
  * 2020/11/6
  */
 class QuadTreeDisplay extends JFrame { 
